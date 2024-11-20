@@ -1,0 +1,18 @@
+abc$abc$abc$abc$0$
+b$b$b$b$7$Jamuna Express*745*5*0*NonAc*04:45 Pm*200.000000*Sat Aug 24 03:39:27 2024$Jamuna Express*745*1*0*ChairCoach*04:45 Pm*150*Sat Aug 24 04:49:01 2024$Mohonganj Express*789*1*0*Ac*01:15 Pm*100*Sat Aug 24 04:49:15 2024$Mohonganj Express*789*2*0*NonAc*01:15 Pm*100*Sat Aug 24 04:49:30 2024$Mohonganj Express*789*2*0*ChairCoach*01:15 Pm*100*Mon Aug 26 04:05:03 2024$Jamuna Express*745*2*0*Ac*04:45 Pm*250*Tue Oct 29 21:20:43 2024$Mohonganj Express*789*4*0*Ac*01:15 Pm*100*Wed Nov 20 14:26:28 2024
+$
+sayedul$sayedul@gmail.com$123456$sS1.$0$
+sharika$sharika@gmail.com$123456$aS1.$2$Agnibina Express*734*1*0*Ac*03:05 Pm*250*Wed Nov 20 12:37:59 2024$Mohonganj Express*789*1*0*ChairCoach*01:15 Pm*100*Wed Nov 20 12:47:55 2024$
+$$$$2$$$
+$$$$1$$
+amit$amit@gmail.com$123456$aA1.$3$Dhumketu Express*769*5*0*ChairCoach*06:00 Am*70*Sun Nov 17 16:26:18 2024$Mohonganj Express*789*2*0*Ac*01:15 Pm*100*Wed Nov 20 12:51:27 2024$Mohonganj Express*789*3*0*ChairCoach*01:15 Pm*100*Wed Nov 20 14:32:54 2024
+$
+$$$$2$$$
+shibli$shibli@gmail.com$123456$sS1.$0$
+alim$alim@gmail.com$123456$aA1.$0$
+xyz$xyz$123456$xX1.$1$Mohonganj Express*789*5*0*Ac*01:15 Pm*100*Sun Nov 17 21:48:35 2024$
+amit$amit$amit$aA1.$0$
+shariar$shariar$123456$sS1.$1$Mohonganj Express*789*5*0*Ac*01:15 Pm*100*Tue Nov 19 21:33:49 2024$
+krisno$krisno@gmail.com$12345$kK1.$0$
+joni$joni@gmail.com$123456$jJ1.$0$
+saymon$saymon@gamil.com$123456$sS1.$0$
